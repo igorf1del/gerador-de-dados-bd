@@ -1,4 +1,3 @@
-
 import pymongo
 from faker import Faker
 
